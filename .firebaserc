@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "ingreso-egreso-app-f32f2": {
+      "hosting": {
+        "ingresoEgresoApp": [
+          "ingreso-egreso-app-f32f2"
+        ]
+      }
+    }
+  }
+}
